@@ -1,0 +1,2 @@
+# Smart_City
+Smart City is web-based software developed in Java programming language to store the details of a city. The main purpose of this project to help the tourists and other visitors to the city by providing information about hotels, transportation facilities, air ticket booking, shopping details, city news, etc. The Smart City Java Project serves the visitors as a guide of the city, and hence the project is also called City Guide Project in Java.
